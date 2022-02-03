@@ -77,8 +77,4 @@ estimator.fit({'train': s3_input_train,'validation': s3_input_test})
 ```
 15. Once model is create we can deploy the model 
 
-# How to Run this Code on your System 🛠️
-- First create AWS account by following steps from [here](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account)
-- Create Notebook Instance inside Sagemaker. `Amazon Sagemaker -> Notebook Instances -> Create Notebook Instance`.  
 
-Explain about ann_model.py file 
